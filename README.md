@@ -1,1 +1,10 @@
-# python-easy-m1-l10
+# 10 урок курса Python Easy
+
+### Склонируй себе весь репозиторий
+
+```
+git clone https://github.com/Codynomicon/python-easy-m1-l4.git
+```
+
+### и переходи к [вводной части](tutorial.md)
+### затем к [практике](М1.У10.Challenge.ipynb)
