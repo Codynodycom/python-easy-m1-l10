@@ -3,7 +3,7 @@
 ### Склонируй себе весь репозиторий
 
 ```
-git clone https://github.com/Codynodycom/python-easy-m1-l4.git
+git clone https://github.com/Codynodycom/python-easy-m1-l10.git
 ```
 
 ### и переходи к [вводной части](tutorial.md)
